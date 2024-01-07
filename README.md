@@ -10,8 +10,8 @@ Change the JC WINs company website...
 
 | Environment | Supported versions |
 |-------------|--------------------|
-| PHP         | >= 8.0             |
-| Laravel     | >= 9               |
+| HTML        |                    |
+| CSS         |                    |
 
 
 ## Usage
