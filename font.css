@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Spoqa";
+    font-style: normal;
+    font-weight: 400;
+    src: url('/./font/SpoqaHanSansNeo-Regular.eot'); /* IE9 Compat Modes */
+    src: url('/./font/SpoqaHanSansNeo-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/./font/SpoqaHanSansNeo-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/./font/SpoqaHanSansNeo-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+        url('/./font/SpoqaHanSansNeo-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: "Spoqa";
+    font-style: normal;
+    font-weight: 600;
+    src: url('/./font/SpoqaHanSansNeo-Medium.eot'); /* IE9 Compat Modes */
+    src: url('/./font/SpoqaHanSansNeo-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/./font/SpoqaHanSansNeo-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/./font/SpoqaHanSansNeo-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+        url('/./font/SpoqaHanSansNeo-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: "Spoqa";
+    font-style: normal;
+    font-weight: 800;
+    src: url('/./font/SpoqaHanSansNeo-Bold.eot'); /* IE9 Compat Modes */
+    src: url('/./font/SpoqaHanSansNeo-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/./font/SpoqaHanSansNeo-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/./font/SpoqaHanSansNeo-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+        url('/./font/SpoqaHanSansNeo-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
