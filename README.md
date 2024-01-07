@@ -16,5 +16,6 @@ Change the JC WINs company website...
 
 ## Usage
 
+Currently, this website doesn't deploy to the server.
 index.html is the entrance page.
 In order to see the page, run the index.html after cloning the repository.
